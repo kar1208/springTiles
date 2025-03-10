@@ -15,7 +15,9 @@
   <hr/>
   <div><img src="${ctp}/resources/images/12.jpg" width="350px" /></div>
   <hr/>
-  <div>방명록 연습 중입니다.</div>
+  <div>방명록 연습 중입니다.1</div>
+  <div>방명록 연습 중입니다.2</div>
+  <div>방명록 연습 중입니다.3</div>
 </div>
 <p><br/></p>
 </body>
