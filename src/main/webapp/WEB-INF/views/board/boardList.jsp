@@ -16,11 +16,8 @@
   <div><img src="${ctp}/resources/images/13.jpg" width="350px" /></div>
   <hr/>
   <div>게시판 연습 중입니다.1</div>
-  <div>게시판 연습 중입니다.2</div>
   <div>게시판 연습 중입니다.3</div>
-  <div>게시판 연습 중입니다.4</div>
   <div>게시판 연습 중입니다.5</div>
-  <div>게시판 연습 중입니다.6</div>
   <div>게시판 연습 중입니다.7</div>
 </div>
 <p><br/></p>
